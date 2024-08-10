@@ -3,7 +3,7 @@
 
 This repository contains the code for the MIA team training, at the Faculty of Engineering Alexandria University. The training consisted of a series of tasks, each focusing on a specific challenge. Each task is implemented in its own branch.
 
-## Project Structure.
+## Project Structure
 
 **main branch**: Contains this explanation.
 
