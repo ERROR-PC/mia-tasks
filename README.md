@@ -1,5 +1,3 @@
 # Solutions
 
-Solution to problem 1 is [here](https://drive.google.com/drive/folders/18LpjcBe6rrH-LSwBcAKXUAMpHayF-Dg1?usp=drive_link)
-
-Solution to problem 2 is [here](task5_2.pdf)
+Schematic designed using altium [here](https://drive.google.com/file/d/1j38KFjQ2tkXrZIJm_rQ8gz-gs4aaBLnk/view?usp=drive_link)
