@@ -1,12 +1,13 @@
 # MIA Training Project
 ## Overview
 
-This repository contains the code for the MIA team training, at the Faculty of Engineering Alexandria University. The training consisted of a series of 3-day tasks, each focusing on a specific challenge. Each task is implemented in its own branch.
+This repository contains the code for the MIA team training, at the Faculty of Engineering Alexandria University. The training consisted of a series of tasks, each focusing on a specific challenge. Each task is implemented in its own branch.
 
 ## Project Structure.
 
-main branch: Contains the base structure and initial setup.
-task_1, task_2, ...: Individual branches for each task.
+**main branch**: Contains this explanation.
+
+**task_1, task_2, ...**: Individual branches for each task.
 
 ## Task Breakdown
 
